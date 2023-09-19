@@ -1,4 +1,4 @@
-import { Link } from "../../../node_modules/react-router-dom/dist/index"
+import { Link } from "react-router-dom"
 
 const Header = () => {
   return(
