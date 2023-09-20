@@ -19,5 +19,5 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
         <Route path='/footer' element={<Footer />} />
       </Routes>
     </Router>
-   
+    
 )

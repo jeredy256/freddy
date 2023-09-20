@@ -8,9 +8,10 @@ const Header = () => {
       <h1>Teste</h1>
       <button className={style.tico}><Link to={"/freddy"}> Home</Link> </button>
     </header>
-    
+
     </>
     )
 }
+
 
 export default Header
