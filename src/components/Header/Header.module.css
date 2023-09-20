@@ -1,42 +1,14 @@
-.pico{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-width: 5em;
+header {
     min-height: 5em;
-    margin: 0;
+    min-width: 5em;
+    display: grid;
+}
+
+#Respo {
+    
     text-align: center;
 }
-
-.tico-button {
-    width: 100px;
-    height: 100px;
-    background-color: rgb(125, 34, 130);
-    border: none;
-    position: relative;
-    transform: rotate(-45deg);
-}
-
-
-.pico button:after {
-    content: '';
-    position: absolute;
-}
-
-.tico-button:before {
-    width: 60px;
-    height: 60px;
-    background-color: rgb(40, 242, 80);
-    left: 50%;
-    top: 15px;
-    transform: translateX(-50%);
-}
-
-.tico-button:after {
-    width: 20px;
-    height: 20px;
-    background-color: rgb(237, 2, 2);
-    left: 50%;
-    top: 60px;
-    transform: translateX(-50%);
+li {
+   padding: 10px;
+    
 }

@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+  
+   
+}
+.ft{
+   width: 80%;
+   max-width: 800px;
+   height: 80vh;
+   margin:0;
+   background-color: #333;
+}
+/* .container img{
+    padding: 1px;
+    min-width: 50%;
+    min-height: 50%;
+} */
+
+/* .ft  {
+    width: 10px;
+} */

@@ -5,8 +5,12 @@ const Header = () => {
   return(
     <>
     <header className={style.pico}>
-      <h1>Teste</h1>
-      <button className={style.tico}><Link to={"/freddy"}> Home</Link> </button>
+      <h1 id={style.Respo}>Teste</h1>
+      <ul>
+        <li>
+          <Link to={'/freddy'}>Home</Link>
+        </li>
+      </ul>
     </header>
 
     </>
