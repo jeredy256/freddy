@@ -8,12 +8,13 @@
    
 }*/
 .container {
-    padding: 5px 0px 30px 300px;
+    
   
 }
 .ft{
+  margin-top: 5px;
     
- 
+  margin: 70px;
   margin-bottom: 0.5px;
   align-items: center;
    width: 70%;
@@ -28,9 +29,9 @@
   /* margin-top: 30px;
   margin: 70px; */
   justify-content: cente;
-  width: 400px;
-  height: 400px;
-  padding: 30px 30px 30px 80px;
+  width: 80%;
+  height: 80%;
+  padding: 30px;
 }
 /* .container img{
     padding: 1px;
