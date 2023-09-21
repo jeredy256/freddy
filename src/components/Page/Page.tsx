@@ -1,13 +1,12 @@
 import img1 from './img/images.png'
 import Header from "../Header/Header"
 import style from './Page.module.css'
-import Footer from '../Footer/Footer'
 
 const Page = () =>{
   return(
     <>
     <Header />
-    
+    <div className={style.container}>
       <div className={style.ft}>
         <img src={img1} alt="" />
         
@@ -19,8 +18,7 @@ const Page = () =>{
       <div className={style.ft}>
         <img src={img1} alt="" />
       </div>
-      <Footer />
-    
+    </div>
     </>
     )
 }

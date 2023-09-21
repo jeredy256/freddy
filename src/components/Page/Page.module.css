@@ -8,15 +8,16 @@
    
 }*/
 .container {
-  padding: 30px;
+    padding: 5px 0px 30px 300px;
+  
 }
 .ft{
- margin: 30px;
-  padding: 10px;
+    
+ 
   margin-bottom: 0.5px;
   align-items: center;
-   width: 80%;
-   max-width: 800px;
+   width: 70%;
+   max-width: 70%;
    height: 80%;
    justify-content: center;
    margin-top: 1px;
@@ -24,11 +25,12 @@
    background-color: #333;
 }
 .ft img {
-  margin-top: 30px;
-  margin: 20px;
+  /* margin-top: 30px;
+  margin: 70px; */
   justify-content: cente;
-  width: 300px;
-  height: 300px;
+  width: 400px;
+  height: 400px;
+  padding: 30px 30px 30px 80px;
 }
 /* .container img{
     padding: 1px;
